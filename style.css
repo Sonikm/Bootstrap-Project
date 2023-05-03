@@ -1,0 +1,17 @@
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.dot {
+    color: rgb(255, 100, 11);
+}
+
+.carousel-inner .carousel-item img {
+    height: 500px;
+}
+
+#contact-section {
+    background-color: #f1f1f1;
+}
